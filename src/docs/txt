@@ -1,0 +1,24 @@
+pivottable
+very good but uses jquery
+actively maintained
+
+react-pivot
+https://github.com/davidguttman/react-pivot
+good, light-weight, doesn't use jquery.
+
+ag-Grid - by far the best grid
+
+SlckGrid - uses jquery
+
+jgGrid - jquery plugin (not free)
+
+clusterize - splits the list to clusters
+https://clusterize.js.org/
+
+handsontable
+https://handsontable.com/features.html
+
+adazzle react-data-grid - uses jquery
+
+https://github.com/okfn/recline - very good, but uses jquery
+

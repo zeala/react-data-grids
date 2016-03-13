@@ -13,7 +13,10 @@ module.exports = {
 		filename: 'bundle.js'
 	},
 	resolve: {
-		extensions: ['', '.js', '.jsx']
+		extensions: ['', '.js', '.jsx'],
+		alias: {
+			"ag-grid-root" : __dirname + "/node_modules/ag-grid"
+		}
 	},
 	module: {
 		loaders: [
