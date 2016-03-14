@@ -1,0 +1,14 @@
+/**/callback({
+  "meta": {
+    "Content-Type": "application/javascript; charset=utf-8",
+    "X-RateLimit-Limit": "60",
+    "X-RateLimit-Remaining": "56",
+    "X-RateLimit-Reset": "1457997289",
+    "X-GitHub-Media-Type": "github.v3",
+    "status": 404
+  },
+  "data": {
+    "message": "Not Found",
+    "documentation_url": "https://developer.github.com/v3"
+  }
+})
